@@ -1,0 +1,3 @@
+Jenkins - open source automation tool
+CI : Integrating the build , deploy, test , Release
+pipeline - group of jobs which are interlinked with oone another in sequence
