@@ -1,3 +1,5 @@
 Jenkins - open source automation tool
 CI : Integrating the build , deploy, test , Release
 pipeline - group of jobs which are interlinked with oone another in sequence
+Automated Deployment: process of automating the deployment process in CI System
+webhook:method of altering behaviour of webpage with custom callbacks
