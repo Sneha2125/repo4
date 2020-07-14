@@ -10,7 +10,7 @@ namespace Build_Application
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Welcome to Build Application");
+            Console.WriteLine("Hello Welcome to Application");
             Console.ReadLine();
 
         }
